@@ -2,12 +2,13 @@
 
 Auto-generated from https://github.com/aidenlong04/warframe-item-pull
 
-- Source commit: 51fb8e5e667fdd52994a74ca6d7c54589476168a
-- Generated at: 2026-05-15T16:42:22Z
-- Workflow run: https://github.com/aidenlong04/warframe-item-pull/actions/runs/25929012227
+- Source commit: 93eab59aaa1e2b1520b79db7e25610f3dffb190f
+- Generated at: 2026-05-15T20:34:46Z
+- Workflow run: https://github.com/aidenlong04/warframe-item-pull/actions/runs/25939987983
 
 ## Files
 
+- `warframe-data-community-builds.txt` (504K)
 - `warframe-data-drops-enemies.txt` (424K)
 - `warframe-data-drops-missions.txt` (572K)
 - `warframe-data-drops-relics.txt` (1.7M)
