@@ -1,0 +1,6 @@
+external_id,first_name,last_name,email,role
+1001,Alice,Nguyen,alice.nguyen@example.com,admin
+1002,Marcus,Lee,marcus.lee@example.com,editor
+1003,Sofia,Patel,sofia.patel@example.com,viewer
+1004,Daniel,Kim,daniel.kim@example.com,viewer
+1005,Emma,Garcia,emma.garcia@example.com,editor
