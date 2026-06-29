@@ -1,6 +1,6 @@
 # Enemy Drop Tables
 FORMAT: Each ## is one enemy. Tables list what that enemy drops: mods, blueprints, resources, sigils with rarity and exact % chance.
-INDEX: Enemy Mod Drop Tables (918 entries) | Enemy Blueprint Drop Tables (88 entries) | Resource Drops by Enemy (890 entries) | Sigil Drops by Enemy (57 entries) | Additional Item Drops by Enemy (37 entries)
+INDEX: Enemy Mod Drop Tables (919 entries) | Enemy Blueprint Drop Tables (105 entries) | Resource Drops by Enemy (891 entries) | Sigil Drops by Enemy (57 entries) | Additional Item Drops by Enemy (37 entries)
 
 # Enemy Mod Drop Tables
 Every enemy and which mods they drop, organized by enemy name with base mod drop chances.
@@ -7262,6 +7262,18 @@ Every enemy and which mods they drop, organized by enemy name with base mod drop
 | Electrified Barrel | Rare | 7.37% |
 | Deadly Efficiency | Rare | 2.01% |
 
+## Bloodfrenzy Ramsled
+**Base Mod Drop Chance:** 15.00%
+| Mod | Rarity | Chance |
+|---|---|---|
+| Shatter Burst | Uncommon | 25.29% |
+| Breach Quanta | Uncommon | 25.29% |
+| Fire Suppression | Uncommon | 25.29% |
+| Orgone Tuning Matrix | Uncommon | 11.06% |
+| Flow Burn | Uncommon | 11.06% |
+| Particle Ram | Rare | 1.01% |
+| Artillery Cheap Shot | Rare | 1.01% |
+
 ## Bloodfrenzy Raptor
 **Base Mod Drop Chance:** 15.00%
 | Mod | Rarity | Chance |
@@ -11534,7 +11546,7 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Pennant Blueprint | Common | 48.71% |
 | Blazing Step Ephemera Blueprint | Rare | 2.58% |
 
-## Taro Crewship
+## Taro Crewship (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Lavan Vort Mk I | Uncommon | 12.50% |
@@ -11554,7 +11566,43 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Laith Mk I | Uncommon | 12.50% |
 | Vidar Laith Mk I | Uncommon | 12.50% |
 
-## Axio Crewship
+## Taro Crewship (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Lavan Vort Mk Iii | Uncommon | 10.00% |
+| Vidar Vort Mk Iii | Uncommon | 10.00% |
+| Lavan Glazio Mk Iii | Uncommon | 10.00% |
+| Vidar Glazio Mk Iii | Uncommon | 10.00% |
+| Lavan Talyn Mk Iii | Uncommon | 10.00% |
+| Vidar Talyn Mk Iii | Uncommon | 10.00% |
+| Lavan Laith Mk Iii | Uncommon | 10.00% |
+| Vidar Laith Mk Iii | Uncommon | 10.00% |
+| Lavan Vort Mk Iv | Rare | 2.50% |
+| Vidar Vort Mk Iv | Rare | 2.50% |
+| Lavan Glazio Mk Iv | Rare | 2.50% |
+| Vidar Glazio Mk Iv | Rare | 2.50% |
+| Lavan Talyn Mk Iv | Rare | 2.50% |
+| Vidar Talyn Mk Iv | Rare | 2.50% |
+| Lavan Laith Mk Iv | Rare | 2.50% |
+| Vidar Laith Mk Iv | Rare | 2.50% |
+| Lavan Vort Mk Iii | Uncommon | 10.00% |
+| Vidar Vort Mk Iii | Uncommon | 10.00% |
+| Lavan Glazio Mk Iii | Uncommon | 10.00% |
+| Vidar Glazio Mk Iii | Uncommon | 10.00% |
+| Lavan Talyn Mk Iii | Uncommon | 10.00% |
+| Vidar Talyn Mk Iii | Uncommon | 10.00% |
+| Lavan Laith Mk Iii | Uncommon | 10.00% |
+| Vidar Laith Mk Iii | Uncommon | 10.00% |
+| Lavan Vort Mk Iv | Rare | 2.50% |
+| Vidar Vort Mk Iv | Rare | 2.50% |
+| Lavan Glazio Mk Iv | Rare | 2.50% |
+| Vidar Glazio Mk Iv | Rare | 2.50% |
+| Lavan Talyn Mk Iv | Rare | 2.50% |
+| Vidar Talyn Mk Iv | Rare | 2.50% |
+| Lavan Laith Mk Iv | Rare | 2.50% |
+| Vidar Laith Mk Iv | Rare | 2.50% |
+
+## Axio Crewship (Level 0 - 70)
 | Item | Rarity | Chance |
 |---|---|---|
 | Lavan Vort Mk Ii | Uncommon | 12.50% |
@@ -11574,7 +11622,43 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Laith Mk Ii | Uncommon | 12.50% |
 | Vidar Laith Mk Ii | Uncommon | 12.50% |
 
-## Vorac Crewship
+## Axio Crewship (Level 71 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Lavan Vort Mk Iii | Uncommon | 10.00% |
+| Vidar Vort Mk Iii | Uncommon | 10.00% |
+| Lavan Glazio Mk Iii | Uncommon | 10.00% |
+| Vidar Glazio Mk Iii | Uncommon | 10.00% |
+| Lavan Talyn Mk Iii | Uncommon | 10.00% |
+| Vidar Talyn Mk Iii | Uncommon | 10.00% |
+| Lavan Laith Mk Iii | Uncommon | 10.00% |
+| Vidar Laith Mk Iii | Uncommon | 10.00% |
+| Lavan Vort Mk Iv | Rare | 2.50% |
+| Vidar Vort Mk Iv | Rare | 2.50% |
+| Lavan Glazio Mk Iv | Rare | 2.50% |
+| Vidar Glazio Mk Iv | Rare | 2.50% |
+| Lavan Talyn Mk Iv | Rare | 2.50% |
+| Vidar Talyn Mk Iv | Rare | 2.50% |
+| Lavan Laith Mk Iv | Rare | 2.50% |
+| Vidar Laith Mk Iv | Rare | 2.50% |
+| Lavan Vort Mk Iii | Uncommon | 10.00% |
+| Vidar Vort Mk Iii | Uncommon | 10.00% |
+| Lavan Glazio Mk Iii | Uncommon | 10.00% |
+| Vidar Glazio Mk Iii | Uncommon | 10.00% |
+| Lavan Talyn Mk Iii | Uncommon | 10.00% |
+| Vidar Talyn Mk Iii | Uncommon | 10.00% |
+| Lavan Laith Mk Iii | Uncommon | 10.00% |
+| Vidar Laith Mk Iii | Uncommon | 10.00% |
+| Lavan Vort Mk Iv | Rare | 2.50% |
+| Vidar Vort Mk Iv | Rare | 2.50% |
+| Lavan Glazio Mk Iv | Rare | 2.50% |
+| Vidar Glazio Mk Iv | Rare | 2.50% |
+| Lavan Talyn Mk Iv | Rare | 2.50% |
+| Vidar Talyn Mk Iv | Rare | 2.50% |
+| Lavan Laith Mk Iv | Rare | 2.50% |
+| Vidar Laith Mk Iv | Rare | 2.50% |
+
+## Vorac Crewship (Level 0 - 70)
 | Item | Rarity | Chance |
 |---|---|---|
 | Lavan Vort Mk Iii | Uncommon | 12.50% |
@@ -11594,7 +11678,43 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Laith Mk Iii | Uncommon | 12.50% |
 | Vidar Laith Mk Iii | Uncommon | 12.50% |
 
-## Orm Crewship
+## Vorac Crewship (Level 71 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Lavan Vort Mk Iii | Uncommon | 10.00% |
+| Vidar Vort Mk Iii | Uncommon | 10.00% |
+| Lavan Glazio Mk Iii | Uncommon | 10.00% |
+| Vidar Glazio Mk Iii | Uncommon | 10.00% |
+| Lavan Talyn Mk Iii | Uncommon | 10.00% |
+| Vidar Talyn Mk Iii | Uncommon | 10.00% |
+| Lavan Laith Mk Iii | Uncommon | 10.00% |
+| Vidar Laith Mk Iii | Uncommon | 10.00% |
+| Lavan Vort Mk Iv | Rare | 2.50% |
+| Vidar Vort Mk Iv | Rare | 2.50% |
+| Lavan Glazio Mk Iv | Rare | 2.50% |
+| Vidar Glazio Mk Iv | Rare | 2.50% |
+| Lavan Talyn Mk Iv | Rare | 2.50% |
+| Vidar Talyn Mk Iv | Rare | 2.50% |
+| Lavan Laith Mk Iv | Rare | 2.50% |
+| Vidar Laith Mk Iv | Rare | 2.50% |
+| Lavan Vort Mk Iii | Uncommon | 10.00% |
+| Vidar Vort Mk Iii | Uncommon | 10.00% |
+| Lavan Glazio Mk Iii | Uncommon | 10.00% |
+| Vidar Glazio Mk Iii | Uncommon | 10.00% |
+| Lavan Talyn Mk Iii | Uncommon | 10.00% |
+| Vidar Talyn Mk Iii | Uncommon | 10.00% |
+| Lavan Laith Mk Iii | Uncommon | 10.00% |
+| Vidar Laith Mk Iii | Uncommon | 10.00% |
+| Lavan Vort Mk Iv | Rare | 2.50% |
+| Vidar Vort Mk Iv | Rare | 2.50% |
+| Lavan Glazio Mk Iv | Rare | 2.50% |
+| Vidar Glazio Mk Iv | Rare | 2.50% |
+| Lavan Talyn Mk Iv | Rare | 2.50% |
+| Vidar Talyn Mk Iv | Rare | 2.50% |
+| Lavan Laith Mk Iv | Rare | 2.50% |
+| Vidar Laith Mk Iv | Rare | 2.50% |
+
+## Orm Crewship (Level 0 - 70)
 | Item | Rarity | Chance |
 |---|---|---|
 | Vidar Vort Mk Iii | Uncommon | 12.50% |
@@ -11613,6 +11733,42 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Zetki Talyn Mk Iii | Uncommon | 12.50% |
 | Vidar Laith Mk Iii | Uncommon | 12.50% |
 | Zetki Laith Mk Iii | Uncommon | 12.50% |
+
+## Orm Crewship (Level 71 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Vidar Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Vidar Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Vidar Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Vidar Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Vidar Vort Mk Iv | Rare | 2.50% |
+| Zetki Vort Mk Iv | Rare | 2.50% |
+| Vidar Glazio Mk Iv | Rare | 2.50% |
+| Zetki Glazio Mk Iv | Rare | 2.50% |
+| Vidar Talyn Mk Iv | Rare | 2.50% |
+| Zetki Talyn Mk Iv | Rare | 2.50% |
+| Vidar Laith Mk Iv | Rare | 2.50% |
+| Zetki Laith Mk Iv | Rare | 2.50% |
+| Vidar Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Vidar Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Vidar Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Vidar Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Vidar Vort Mk Iv | Rare | 2.50% |
+| Zetki Vort Mk Iv | Rare | 2.50% |
+| Vidar Glazio Mk Iv | Rare | 2.50% |
+| Zetki Glazio Mk Iv | Rare | 2.50% |
+| Vidar Talyn Mk Iv | Rare | 2.50% |
+| Zetki Talyn Mk Iv | Rare | 2.50% |
+| Vidar Laith Mk Iv | Rare | 2.50% |
+| Zetki Laith Mk Iv | Rare | 2.50% |
 
 ## Orm Gox
 | Item | Rarity | Chance |
@@ -11634,7 +11790,7 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Shield Array Mk Iii | Uncommon | 12.50% |
 | Vidar Shield Array Mk Iii | Uncommon | 12.50% |
 
-## Elite Orm Weaver
+## Elite Orm Weaver (Level 0 - 70)
 | Item | Rarity | Chance |
 |---|---|---|
 | Zetki Engines Mk Iii | Uncommon | 12.50% |
@@ -11654,7 +11810,35 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Zetki Talyn Mk Iii | Uncommon | 12.50% |
 | Zetki Laith Mk Iii | Uncommon | 12.50% |
 
-## Axio Gox
+## Elite Orm Weaver (Level 71 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Zetki Engines Mk Iii | Uncommon | 10.00% |
+| Zetki Plating Mk Iii | Uncommon | 10.00% |
+| Zetki Reactor Mk Iii | Uncommon | 10.00% |
+| Zetki Shield Array Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iv | Rare | 5.00% |
+| Zetki Glazio Mk Iv | Rare | 5.00% |
+| Zetki Talyn Mk Iv | Rare | 5.00% |
+| Zetki Laith Mk Iv | Rare | 5.00% |
+| Zetki Engines Mk Iii | Uncommon | 10.00% |
+| Zetki Plating Mk Iii | Uncommon | 10.00% |
+| Zetki Reactor Mk Iii | Uncommon | 10.00% |
+| Zetki Shield Array Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iv | Rare | 5.00% |
+| Zetki Glazio Mk Iv | Rare | 5.00% |
+| Zetki Talyn Mk Iv | Rare | 5.00% |
+| Zetki Laith Mk Iv | Rare | 5.00% |
+
+## Axio Gox (Level 0 - 70)
 | Item | Rarity | Chance |
 |---|---|---|
 | Lavan Engines Mk Ii | Uncommon | 12.50% |
@@ -11674,7 +11858,27 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Shield Array Mk Ii | Uncommon | 12.50% |
 | Vidar Shield Array Mk Ii | Uncommon | 12.50% |
 
-## Elite Axio Weaver
+## Axio Gox (Level 71 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Lavan Engines Mk Iii | Uncommon | 12.50% |
+| Vidar Engines Mk Iii | Uncommon | 12.50% |
+| Lavan Plating Mk Iii | Uncommon | 12.50% |
+| Vidar Plating Mk Iii | Uncommon | 12.50% |
+| Lavan Reactor Mk Iii | Uncommon | 12.50% |
+| Vidar Reactor Mk Iii | Uncommon | 12.50% |
+| Lavan Shield Array Mk Iii | Uncommon | 12.50% |
+| Vidar Shield Array Mk Iii | Uncommon | 12.50% |
+| Lavan Engines Mk Iii | Uncommon | 12.50% |
+| Vidar Engines Mk Iii | Uncommon | 12.50% |
+| Lavan Plating Mk Iii | Uncommon | 12.50% |
+| Vidar Plating Mk Iii | Uncommon | 12.50% |
+| Lavan Reactor Mk Iii | Uncommon | 12.50% |
+| Vidar Reactor Mk Iii | Uncommon | 12.50% |
+| Lavan Shield Array Mk Iii | Uncommon | 12.50% |
+| Vidar Shield Array Mk Iii | Uncommon | 12.50% |
+
+## Elite Axio Weaver (Level 0 - 70)
 | Item | Rarity | Chance |
 |---|---|---|
 | Zetki Engines Mk Ii | Uncommon | 12.50% |
@@ -11694,7 +11898,35 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Zetki Talyn Mk Ii | Uncommon | 12.50% |
 | Zetki Laith Mk Ii | Uncommon | 12.50% |
 
-## Elite Taro Weaver
+## Elite Axio Weaver (Level 71 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Zetki Engines Mk Iii | Uncommon | 10.00% |
+| Zetki Plating Mk Iii | Uncommon | 10.00% |
+| Zetki Reactor Mk Iii | Uncommon | 10.00% |
+| Zetki Shield Array Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iv | Rare | 5.00% |
+| Zetki Glazio Mk Iv | Rare | 5.00% |
+| Zetki Talyn Mk Iv | Rare | 5.00% |
+| Zetki Laith Mk Iv | Rare | 5.00% |
+| Zetki Engines Mk Iii | Uncommon | 10.00% |
+| Zetki Plating Mk Iii | Uncommon | 10.00% |
+| Zetki Reactor Mk Iii | Uncommon | 10.00% |
+| Zetki Shield Array Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iv | Rare | 5.00% |
+| Zetki Glazio Mk Iv | Rare | 5.00% |
+| Zetki Talyn Mk Iv | Rare | 5.00% |
+| Zetki Laith Mk Iv | Rare | 5.00% |
+
+## Elite Taro Weaver (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Zetki Engines Mk I | Uncommon | 12.50% |
@@ -11713,6 +11945,34 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Zetki Glazio Mk I | Uncommon | 12.50% |
 | Zetki Talyn Mk I | Uncommon | 12.50% |
 | Zetki Laith Mk I | Uncommon | 12.50% |
+
+## Elite Taro Weaver (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Zetki Engines Mk Iii | Uncommon | 10.00% |
+| Zetki Plating Mk Iii | Uncommon | 10.00% |
+| Zetki Reactor Mk Iii | Uncommon | 10.00% |
+| Zetki Shield Array Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iv | Rare | 5.00% |
+| Zetki Glazio Mk Iv | Rare | 5.00% |
+| Zetki Talyn Mk Iv | Rare | 5.00% |
+| Zetki Laith Mk Iv | Rare | 5.00% |
+| Zetki Engines Mk Iii | Uncommon | 10.00% |
+| Zetki Plating Mk Iii | Uncommon | 10.00% |
+| Zetki Reactor Mk Iii | Uncommon | 10.00% |
+| Zetki Shield Array Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iv | Rare | 5.00% |
+| Zetki Glazio Mk Iv | Rare | 5.00% |
+| Zetki Talyn Mk Iv | Rare | 5.00% |
+| Zetki Laith Mk Iv | Rare | 5.00% |
 
 ## Vorac Gox
 | Item | Rarity | Chance |
@@ -11734,7 +11994,7 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Shield Array Mk Iii | Uncommon | 12.50% |
 | Vidar Shield Array Mk Iii | Uncommon | 12.50% |
 
-## Elite Vorac Weaver
+## Elite Vorac Weaver (Level 0 - 70)
 | Item | Rarity | Chance |
 |---|---|---|
 | Zetki Engines Mk Iii | Uncommon | 12.50% |
@@ -11754,7 +12014,35 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Zetki Talyn Mk Iii | Uncommon | 12.50% |
 | Zetki Laith Mk Iii | Uncommon | 12.50% |
 
-## Elite Exo Gokstad Crewship
+## Elite Vorac Weaver (Level 71 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Zetki Engines Mk Iii | Uncommon | 10.00% |
+| Zetki Plating Mk Iii | Uncommon | 10.00% |
+| Zetki Reactor Mk Iii | Uncommon | 10.00% |
+| Zetki Shield Array Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iv | Rare | 5.00% |
+| Zetki Glazio Mk Iv | Rare | 5.00% |
+| Zetki Talyn Mk Iv | Rare | 5.00% |
+| Zetki Laith Mk Iv | Rare | 5.00% |
+| Zetki Engines Mk Iii | Uncommon | 10.00% |
+| Zetki Plating Mk Iii | Uncommon | 10.00% |
+| Zetki Reactor Mk Iii | Uncommon | 10.00% |
+| Zetki Shield Array Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iii | Uncommon | 10.00% |
+| Zetki Glazio Mk Iii | Uncommon | 10.00% |
+| Zetki Talyn Mk Iii | Uncommon | 10.00% |
+| Zetki Laith Mk Iii | Uncommon | 10.00% |
+| Zetki Vort Mk Iv | Rare | 5.00% |
+| Zetki Glazio Mk Iv | Rare | 5.00% |
+| Zetki Talyn Mk Iv | Rare | 5.00% |
+| Zetki Laith Mk Iv | Rare | 5.00% |
+
+## Elite Exo Gokstad Crewship (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Vidar Photor Mk Iii | Uncommon | 10.00% |
@@ -11778,7 +12066,51 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Vidar Apoc Mk Iii | Uncommon | 10.00% |
 | Zetki Apoc Mk Iii | Uncommon | 10.00% |
 
-## Exo Gokstad Crewship
+## Elite Exo Gokstad Crewship (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Zetki Photor Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Zetki Cryophon Mk Iii | Rare | 8.00% |
+| Zetki Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Zetki Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Zetki Apoc Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Zetki Photor Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Zetki Cryophon Mk Iv | Rare | 2.00% |
+| Zetki Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Zetki Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+| Zetki Apoc Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Zetki Photor Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Zetki Cryophon Mk Iii | Rare | 8.00% |
+| Zetki Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Zetki Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Zetki Apoc Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Zetki Photor Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Zetki Cryophon Mk Iv | Rare | 2.00% |
+| Zetki Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Zetki Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+| Zetki Apoc Mk Iv | Rare | 2.00% |
+
+## Exo Gokstad Crewship (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Lavan Photor Mk Iii | Uncommon | 10.00% |
@@ -11802,7 +12134,51 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Apoc Mk Iii | Uncommon | 10.00% |
 | Vidar Apoc Mk Iii | Uncommon | 10.00% |
 
-## Kosma Gokstad Crewship
+## Exo Gokstad Crewship (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Lavan Photor Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Lavan Cryophon Mk Iii | Rare | 8.00% |
+| Lavan Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Lavan Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Lavan Apoc Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Lavan Photor Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Lavan Cryophon Mk Iv | Rare | 2.00% |
+| Lavan Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Lavan Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Lavan Apoc Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+| Lavan Photor Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Lavan Cryophon Mk Iii | Rare | 8.00% |
+| Lavan Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Lavan Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Lavan Apoc Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Lavan Photor Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Lavan Cryophon Mk Iv | Rare | 2.00% |
+| Lavan Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Lavan Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Lavan Apoc Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+
+## Kosma Gokstad Crewship (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Lavan Photor Mk I | Uncommon | 10.00% |
@@ -11826,7 +12202,51 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Apoc Mk I | Uncommon | 10.00% |
 | Vidar Apoc Mk I | Uncommon | 10.00% |
 
-## Gyre Gokstad Crewship
+## Kosma Gokstad Crewship (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Lavan Photor Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Lavan Cryophon Mk Iii | Rare | 8.00% |
+| Lavan Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Lavan Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Lavan Apoc Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Lavan Photor Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Lavan Cryophon Mk Iv | Rare | 2.00% |
+| Lavan Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Lavan Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Lavan Apoc Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+| Lavan Photor Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Lavan Cryophon Mk Iii | Rare | 8.00% |
+| Lavan Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Lavan Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Lavan Apoc Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Lavan Photor Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Lavan Cryophon Mk Iv | Rare | 2.00% |
+| Lavan Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Lavan Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Lavan Apoc Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+
+## Gyre Gokstad Crewship (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Lavan Photor Mk Ii | Uncommon | 10.00% |
@@ -11850,7 +12270,51 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Apoc Mk Ii | Uncommon | 10.00% |
 | Vidar Apoc Mk Ii | Uncommon | 10.00% |
 
-## Exo Skold Crewship
+## Gyre Gokstad Crewship (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Lavan Photor Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Lavan Cryophon Mk Iii | Rare | 8.00% |
+| Lavan Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Lavan Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Lavan Apoc Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Lavan Photor Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Lavan Cryophon Mk Iv | Rare | 2.00% |
+| Lavan Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Lavan Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Lavan Apoc Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+| Lavan Photor Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Lavan Cryophon Mk Iii | Rare | 8.00% |
+| Lavan Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Lavan Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Lavan Apoc Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Lavan Photor Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Lavan Cryophon Mk Iv | Rare | 2.00% |
+| Lavan Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Lavan Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Lavan Apoc Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+
+## Exo Skold Crewship (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Lavan Photor Mk Iii | Uncommon | 10.00% |
@@ -11874,7 +12338,51 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Lavan Apoc Mk Iii | Uncommon | 10.00% |
 | Vidar Apoc Mk Iii | Uncommon | 10.00% |
 
-## Elite Exo Outrider
+## Exo Skold Crewship (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Lavan Photor Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Lavan Cryophon Mk Iii | Rare | 8.00% |
+| Lavan Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Lavan Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Lavan Apoc Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Lavan Photor Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Lavan Cryophon Mk Iv | Rare | 2.00% |
+| Lavan Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Lavan Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Lavan Apoc Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+| Lavan Photor Mk Iii | Rare | 8.00% |
+| Vidar Photor Mk Iii | Rare | 8.00% |
+| Lavan Cryophon Mk Iii | Rare | 8.00% |
+| Lavan Carcinnox Mk Iii | Rare | 8.00% |
+| Vidar Cryophon Mk Iii | Rare | 8.00% |
+| Vidar Carcinnox Mk Iii | Rare | 8.00% |
+| Lavan Pulsar Mk Iii | Rare | 8.00% |
+| Vidar Pulsar Mk Iii | Rare | 8.00% |
+| Lavan Apoc Mk Iii | Rare | 8.00% |
+| Vidar Apoc Mk Iii | Rare | 8.00% |
+| Lavan Photor Mk Iv | Rare | 2.00% |
+| Vidar Photor Mk Iv | Rare | 2.00% |
+| Lavan Cryophon Mk Iv | Rare | 2.00% |
+| Lavan Carcinnox Mk Iv | Rare | 2.00% |
+| Vidar Cryophon Mk Iv | Rare | 2.00% |
+| Vidar Carcinnox Mk Iv | Rare | 2.00% |
+| Lavan Pulsar Mk Iv | Rare | 2.00% |
+| Vidar Pulsar Mk Iv | Rare | 2.00% |
+| Lavan Apoc Mk Iv | Rare | 2.00% |
+| Vidar Apoc Mk Iv | Rare | 2.00% |
+
+## Elite Exo Outrider (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Zetki Engines Mk Iii | Uncommon | 11.11% |
@@ -11896,7 +12404,39 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Zetki Pulsar Mk Iii | Uncommon | 11.11% |
 | Zetki Apoc Mk Iii | Uncommon | 11.11% |
 
-## Elite Kosma Outrider
+## Elite Exo Outrider (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Zetki Engines Mk Iii | Rare | 8.89% |
+| Zetki Plating Mk Iii | Rare | 8.89% |
+| Zetki Reactor Mk Iii | Rare | 8.89% |
+| Zetki Shield Array Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iii | Rare | 8.89% |
+| Zetki Cryophon Mk Iii | Rare | 8.89% |
+| Zetki Carcinnox Mk Iii | Rare | 8.89% |
+| Zetki Pulsar Mk Iii | Rare | 8.89% |
+| Zetki Apoc Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iv | Rare | 4.00% |
+| Zetki Cryophon Mk Iv | Rare | 4.00% |
+| Zetki Carcinnox Mk Iv | Rare | 4.00% |
+| Zetki Pulsar Mk Iv | Rare | 4.00% |
+| Zetki Apoc Mk Iv | Rare | 4.00% |
+| Zetki Engines Mk Iii | Rare | 8.89% |
+| Zetki Plating Mk Iii | Rare | 8.89% |
+| Zetki Reactor Mk Iii | Rare | 8.89% |
+| Zetki Shield Array Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iii | Rare | 8.89% |
+| Zetki Cryophon Mk Iii | Rare | 8.89% |
+| Zetki Carcinnox Mk Iii | Rare | 8.89% |
+| Zetki Pulsar Mk Iii | Rare | 8.89% |
+| Zetki Apoc Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iv | Rare | 4.00% |
+| Zetki Cryophon Mk Iv | Rare | 4.00% |
+| Zetki Carcinnox Mk Iv | Rare | 4.00% |
+| Zetki Pulsar Mk Iv | Rare | 4.00% |
+| Zetki Apoc Mk Iv | Rare | 4.00% |
+
+## Elite Kosma Outrider (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Zetki Engines Mk I | Uncommon | 11.11% |
@@ -11918,7 +12458,39 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Zetki Pulsar Mk I | Uncommon | 11.11% |
 | Zetki Apoc Mk I | Uncommon | 11.11% |
 
-## Elite Gyre Outrider
+## Elite Kosma Outrider (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Zetki Engines Mk Iii | Rare | 8.89% |
+| Zetki Plating Mk Iii | Rare | 8.89% |
+| Zetki Reactor Mk Iii | Rare | 8.89% |
+| Zetki Shield Array Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iii | Rare | 8.89% |
+| Zetki Cryophon Mk Iii | Rare | 8.89% |
+| Zetki Carcinnox Mk Iii | Rare | 8.89% |
+| Zetki Pulsar Mk Iii | Rare | 8.89% |
+| Zetki Apoc Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iv | Rare | 4.00% |
+| Zetki Cryophon Mk Iv | Rare | 4.00% |
+| Zetki Carcinnox Mk Iv | Rare | 4.00% |
+| Zetki Pulsar Mk Iv | Rare | 4.00% |
+| Zetki Apoc Mk Iv | Rare | 4.00% |
+| Zetki Engines Mk Iii | Rare | 8.89% |
+| Zetki Plating Mk Iii | Rare | 8.89% |
+| Zetki Reactor Mk Iii | Rare | 8.89% |
+| Zetki Shield Array Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iii | Rare | 8.89% |
+| Zetki Cryophon Mk Iii | Rare | 8.89% |
+| Zetki Carcinnox Mk Iii | Rare | 8.89% |
+| Zetki Pulsar Mk Iii | Rare | 8.89% |
+| Zetki Apoc Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iv | Rare | 4.00% |
+| Zetki Cryophon Mk Iv | Rare | 4.00% |
+| Zetki Carcinnox Mk Iv | Rare | 4.00% |
+| Zetki Pulsar Mk Iv | Rare | 4.00% |
+| Zetki Apoc Mk Iv | Rare | 4.00% |
+
+## Elite Gyre Outrider (Level 0 - 50)
 | Item | Rarity | Chance |
 |---|---|---|
 | Zetki Engines Mk Ii | Uncommon | 11.11% |
@@ -11939,6 +12511,38 @@ Every enemy and which blueprints they can drop, organized by enemy.
 | Zetki Carcinnox Mk Ii | Uncommon | 11.11% |
 | Zetki Pulsar Mk Ii | Uncommon | 11.11% |
 | Zetki Apoc Mk Ii | Uncommon | 11.11% |
+
+## Elite Gyre Outrider (Level 51 - 100)
+| Item | Rarity | Chance |
+|---|---|---|
+| Zetki Engines Mk Iii | Rare | 8.89% |
+| Zetki Plating Mk Iii | Rare | 8.89% |
+| Zetki Reactor Mk Iii | Rare | 8.89% |
+| Zetki Shield Array Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iii | Rare | 8.89% |
+| Zetki Cryophon Mk Iii | Rare | 8.89% |
+| Zetki Carcinnox Mk Iii | Rare | 8.89% |
+| Zetki Pulsar Mk Iii | Rare | 8.89% |
+| Zetki Apoc Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iv | Rare | 4.00% |
+| Zetki Cryophon Mk Iv | Rare | 4.00% |
+| Zetki Carcinnox Mk Iv | Rare | 4.00% |
+| Zetki Pulsar Mk Iv | Rare | 4.00% |
+| Zetki Apoc Mk Iv | Rare | 4.00% |
+| Zetki Engines Mk Iii | Rare | 8.89% |
+| Zetki Plating Mk Iii | Rare | 8.89% |
+| Zetki Reactor Mk Iii | Rare | 8.89% |
+| Zetki Shield Array Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iii | Rare | 8.89% |
+| Zetki Cryophon Mk Iii | Rare | 8.89% |
+| Zetki Carcinnox Mk Iii | Rare | 8.89% |
+| Zetki Pulsar Mk Iii | Rare | 8.89% |
+| Zetki Apoc Mk Iii | Rare | 8.89% |
+| Zetki Photor Mk Iv | Rare | 4.00% |
+| Zetki Cryophon Mk Iv | Rare | 4.00% |
+| Zetki Carcinnox Mk Iv | Rare | 4.00% |
+| Zetki Pulsar Mk Iv | Rare | 4.00% |
+| Zetki Apoc Mk Iv | Rare | 4.00% |
 
 ## Kuva Lich Agor Rok
 | Item | Rarity | Chance |
@@ -15336,6 +15940,14 @@ Which resources each enemy type drops.
 |---|---|---|
 | Region Resource | Common | 0.97% |
 | Tellurium | Rare | 0.03% |
+
+## Bloodfrenzy Ramsled
+| Item | Rarity | Chance |
+|---|---|---|
+| Carbides | Common | 28.45% |
+| Ticor Plate | Common | 28.45% |
+| Gallos Rods | Uncommon | 16.58% |
+| Komms | Rare | 1.51% |
 
 ## Bloodfrenzy Raptor
 | Item | Rarity | Chance |

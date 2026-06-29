@@ -1,6 +1,6 @@
 # Relics & Item Drop Locations
 FORMAT: Relics by ## Era Name, ### Refinement State with reward tables. Mod/Blueprint locations: ## Item Name with enemy tables showing drop %.
-INDEX: Void Relics (773 entries) | Mod Drop Locations (648 entries) | Blueprint Drop Locations (179 entries)
+INDEX: Void Relics (774 entries) | Mod Drop Locations (648 entries) | Blueprint Drop Locations (206 entries)
 
 # Void Relics
 Complete relic drop table. Each relic lists its tier (Lith/Meso/Neo/Axi), refinement state, and all possible rewards with drop chances by rarity (Common, Uncommon, Rare).
@@ -30304,6 +30304,47 @@ Complete relic drop table. Each relic lists its tier (Lith/Meso/Neo/Axi), refine
 | Akbronco Prime Blueprint | Uncommon | 16.67% |
 | Yareli Prime Chassis Blueprint | Uncommon | 16.67% |
 
+## Neo V12
+### Intact
+| Reward | Rarity | Chance |
+|---|---|---|
+| Voruna Prime Systems Blueprint | Rare | 2.00% |
+| Xaku Prime Chassis Blueprint | Uncommon | 11.00% |
+| Quassus Prime Blueprint | Uncommon | 11.00% |
+| Akbronco Prime Blueprint | Uncommon | 25.33% |
+| Paris Prime Blueprint | Uncommon | 25.33% |
+| Yareli Prime Chassis Blueprint | Uncommon | 25.33% |
+
+### Exceptional
+| Reward | Rarity | Chance |
+|---|---|---|
+| Voruna Prime Systems Blueprint | Rare | 4.00% |
+| Xaku Prime Chassis Blueprint | Uncommon | 13.00% |
+| Quassus Prime Blueprint | Uncommon | 13.00% |
+| Akbronco Prime Blueprint | Uncommon | 23.33% |
+| Paris Prime Blueprint | Uncommon | 23.33% |
+| Yareli Prime Chassis Blueprint | Uncommon | 23.33% |
+
+### Flawless
+| Reward | Rarity | Chance |
+|---|---|---|
+| Voruna Prime Systems Blueprint | Rare | 6.00% |
+| Xaku Prime Chassis Blueprint | Uncommon | 17.00% |
+| Quassus Prime Blueprint | Uncommon | 17.00% |
+| Akbronco Prime Blueprint | Uncommon | 20.00% |
+| Paris Prime Blueprint | Uncommon | 20.00% |
+| Yareli Prime Chassis Blueprint | Uncommon | 20.00% |
+
+### Radiant
+| Reward | Rarity | Chance |
+|---|---|---|
+| Voruna Prime Systems Blueprint | Uncommon | 10.00% |
+| Xaku Prime Chassis Blueprint | Uncommon | 20.00% |
+| Quassus Prime Blueprint | Uncommon | 20.00% |
+| Akbronco Prime Blueprint | Uncommon | 16.67% |
+| Paris Prime Blueprint | Uncommon | 16.67% |
+| Yareli Prime Chassis Blueprint | Uncommon | 16.67% |
+
 ## Neo V2
 ### Intact
 | Reward | Rarity | Chance |
@@ -35288,6 +35329,7 @@ Every mod in the game and which enemies drop it, with exact drop chance percenta
 | Corpus Cargo Ship | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Trencher | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Orm Gox | 15.00% | Uncommon | 25.29% |
+| Bloodfrenzy Ramsled | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Raptor | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Exo Cutter | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Dreg | 15.00% | Uncommon | 25.29% |
@@ -36566,6 +36608,7 @@ Every mod in the game and which enemies drop it, with exact drop chance percenta
 | Corpus Cargo Ship | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Trencher | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Orm Gox | 15.00% | Rare | 1.01% |
+| Bloodfrenzy Ramsled | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Raptor | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Exo Cutter | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Dreg | 15.00% | Rare | 1.01% |
@@ -38282,6 +38325,7 @@ Every mod in the game and which enemies drop it, with exact drop chance percenta
 | Exo Carabus | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Trencher | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Orm Gox | 15.00% | Rare | 1.01% |
+| Bloodfrenzy Ramsled | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Raptor | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Exo Cutter | 15.00% | Rare | 1.01% |
 | Bloodfrenzy Dreg | 15.00% | Rare | 1.01% |
@@ -38747,6 +38791,7 @@ Every mod in the game and which enemies drop it, with exact drop chance percenta
 | Corpus Cargo Ship | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Trencher | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Orm Gox | 15.00% | Uncommon | 11.06% |
+| Bloodfrenzy Ramsled | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Raptor | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Exo Cutter | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Dreg | 15.00% | Uncommon | 11.06% |
@@ -38876,6 +38921,7 @@ Every mod in the game and which enemies drop it, with exact drop chance percenta
 | Corpus Cargo Ship | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Trencher | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Orm Gox | 15.00% | Uncommon | 25.29% |
+| Bloodfrenzy Ramsled | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Raptor | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Exo Cutter | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Dreg | 15.00% | Uncommon | 25.29% |
@@ -43538,6 +43584,7 @@ Every mod in the game and which enemies drop it, with exact drop chance percenta
 | Corpus Cargo Ship | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Trencher | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Orm Gox | 15.00% | Uncommon | 11.06% |
+| Bloodfrenzy Ramsled | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Raptor | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Exo Cutter | 15.00% | Uncommon | 11.06% |
 | Bloodfrenzy Dreg | 15.00% | Uncommon | 11.06% |
@@ -43593,6 +43640,7 @@ Every mod in the game and which enemies drop it, with exact drop chance percenta
 | Corpus Cargo Ship | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Trencher | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Orm Gox | 15.00% | Uncommon | 25.29% |
+| Bloodfrenzy Ramsled | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Raptor | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Exo Cutter | 15.00% | Uncommon | 25.29% |
 | Bloodfrenzy Dreg | 15.00% | Uncommon | 25.29% |
@@ -44451,12 +44499,24 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Lavan Glazio Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vorac Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Vorac Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+
+## Zetki Laith Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
 
 ## Lavan Talyn Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Stahlta Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44466,7 +44526,10 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Lavan Vort Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vorac Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Vorac Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Tak & Lug Guard
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44482,13 +44545,18 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Laith Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vorac Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-| Orm Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Vorac Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Orm Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Lavan Shield Array Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 12.50% |
 | Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Blazing Step Ephemera Blueprint
@@ -44513,14 +44581,21 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Lavan Photor Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Zetki Plating Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Orm Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Vorac Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Orm Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Vorac Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
 
 ## Shedu Receiver
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44530,13 +44605,13 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Lavan Reactor Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Zetki Engines Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Axio Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Axio Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
 ## Hate Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44554,7 +44629,7 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Vort Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Taro Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Ambassador Stock Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44583,17 +44658,30 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 |---|---|---|---|---|
 | Zanuka Hunter | 100.00% | 100.00% | Uncommon | 32.35% |
 
+## Vidar Talyn Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+
 ## Zetki Vort Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Orm Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Orm Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Vorac Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Orm Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Vorac Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Lavan Glazio Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Taro Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Gorgon Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44610,17 +44698,20 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Glazio Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Lavan Laith Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vorac Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Vorac Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Zetki Laith Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Axio Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Axio Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Despair Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44638,9 +44729,14 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Cryophon Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
 ## Wolf Sledge Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44651,18 +44747,18 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Zetki Plating Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Axio Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Axio Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
 ## Zetki Apoc Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
 ## Zetki Glazio Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Taro Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Taro Weaver (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Turbo Protect
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44698,24 +44794,44 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Photor Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Zetki Reactor Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Orm Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Vorac Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Orm Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Vorac Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
 
-## Zetki Cryophon Mk Ii
+## Vidar Pulsar Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+
+## Zetki Talyn Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
 
 ## Lavan Talyn Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Taro Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Brakk Barrel
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44742,6 +44858,7 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 12.50% |
 | Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Acceltra Blueprint
@@ -44755,13 +44872,13 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Pulsar Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Zetki Shield Array Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Axio Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Axio Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
 ## Pennant Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44775,40 +44892,56 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Zetki Glazio Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Axio Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Axio Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Vidar Vort Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vorac Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-| Orm Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Vorac Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Orm Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
-## Lavan Cryophon Mk Ii
+## Vidar Laith Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
 
 ## Vidar Laith Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Taro Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Vidar Glazio Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vorac Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-| Orm Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Vorac Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Orm Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Lavan Shield Array Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Ambassador Barrel Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Aurax Atloc Raknoid | 15.00% | 15.00% | Common | 33.33% |
 | Narmer Raknoid | 15.00% | 15.00% | Common | 33.33% |
+
+## Harrow Chassis Blueprint
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Void Fissure Corrupted Enemy | 3.00% | 3.00% | Common | 100.00% |
 
 ## Instant Secure
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44818,13 +44951,20 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Zetki Reactor Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Taro Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Taro Weaver (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+
+## Tonkkatt Blueprint
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Ghoul Expired | 5.00% | 5.00% | Common | 33.33% |
+| Ghoul Rictus | 5.00% | 5.00% | Common | 33.33% |
 
 ## Vidar Reactor Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 12.50% |
 | Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Dread Blueprint
@@ -44851,13 +44991,23 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Zetki Pulsar Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+
+## Zetki Cryophon Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
 ## Vidar Shield Array Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 12.50% |
 | Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Tak & Lug Blade
@@ -44869,25 +45019,48 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Carcinnox Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Zetki Shield Array Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Orm Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Vorac Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Orm Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Vorac Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+
+## Hildryn Systems Blueprint
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Exploiter Orb | 100.00% | 100.00% | Uncommon | 22.56% |
 
 ## Vidar Engines Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 12.50% |
 | Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Stubba Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Ghoul Rictus Alpha | 50.00% | 50.00% | Common | 100.00% |
+
+## Parallax Fuselage Blueprint
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Reinforced Carrypod | 2.00% | 2.00% | Common | 33.33% |
+
+## Parallax Engines Blueprint
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Reinforced Carrypod | 2.00% | 2.00% | Common | 33.33% |
 
 ## Hildryn Neuroptics Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44897,19 +45070,57 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Shield Array Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Immuno Shield
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Techrot Scaart | 3.00% | 3.00% | Common | 37.94% |
 
+## Lavan Glazio Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+
 ## Vidar Apoc Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+
+## Vidar Glazio Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+
+## Zetki Photor Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+
+## Lavan Cryophon Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+
+## Lavan Apoc Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
 ## Broken War Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44920,18 +45131,17 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Vort Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Scimitar Avionics Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Zanuka Hunter | 100.00% | 100.00% | Uncommon | 17.65% |
 
-## Tonkkatt Blueprint
+## Shedu Chassis
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Ghoul Expired | 5.00% | 5.00% | Common | 33.33% |
-| Ghoul Rictus | 5.00% | 5.00% | Common | 33.33% |
+| Symbilyst | 4.00% | 4.00% | Uncommon | 25.00% |
 
 ## War Blade
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44944,6 +45154,21 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 | Typholyst | 1.00% | 1.00% | Common | 50.00% |
 | Archimedean Itzam | 1.00% | 1.00% | Common | 50.00% |
 
+## Zetki Photor Mk I
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+
+## Zetki Cryophon Mk I
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+
+## Zetki Pulsar Mk I
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+
 ## Ambassador Receiver Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
@@ -44953,13 +45178,30 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Zetki Carcinnox Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+
+## Lavan Laith Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+
+## Wolf Sledge Motor
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Wolf Of Saturn Six | 100.00% | 100.00% | Uncommon | 25.00% |
+| Wolf Of Saturn Six | 100.00% | 100.00% | Uncommon | 25.00% |
 
 ## Vidar Cryophon Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Korrudo Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -44969,6 +45211,11 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 | Narmer Thumper Doma | 10.00% | 10.00% | Common | 100.00% |
 | Narmer Thumper Bull | 5.00% | 5.00% | Common | 100.00% |
 
+## Zetki Apoc Mk I
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+
 ## Quick Correct
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
@@ -44977,22 +45224,36 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Lavan Talyn Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vorac Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Vorac Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+
+## Lavan Vort Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
 
 ## Zetki Pulsar Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
-## Vidar Pulsar Mk Ii
+## Vidar Cryophon Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
 ## Vidar Apoc Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Wolf Sledge Head
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45000,36 +45261,66 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 | Wolf Of Saturn Six | 100.00% | 100.00% | Uncommon | 25.00% |
 | Wolf Of Saturn Six | 100.00% | 100.00% | Uncommon | 25.00% |
 
+## Vidar Cryophon Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+
 ## Zetki Engines Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Taro Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Taro Weaver (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+
+## Vidar Photor Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Lavan Apoc Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Lavan Engines Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+
+## Vidar Apoc Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+
+## Lavan Photor Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+
+## Vidar Pulsar Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Vidar Plating Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Steel Essence
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | H-09 Apex | 100.00% | 100.00% | Common | 100.00% |
 
+## Lavan Carcinnox Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+
 ## Lavan Vort Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Cronus Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45040,17 +45331,17 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Zetki Laith Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Taro Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Taro Weaver (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Harrow Chassis Blueprint
+## Lavan Cryophon Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Void Fissure Corrupted Enemy | 3.00% | 3.00% | Common | 100.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
-## Vidar Laith Mk Ii
+## Zetki Talyn Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Taro Weaver (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Twin Kohmak Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45060,63 +45351,94 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Zetki Carcinnox Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
-## Hildryn Systems Blueprint
+## Vidar Carcinnox Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Exploiter Orb | 100.00% | 100.00% | Uncommon | 22.56% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
-## Parallax Fuselage Blueprint
+## Zetki Apoc Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Reinforced Carrypod | 2.00% | 2.00% | Common | 33.33% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
 
-## Parallax Engines Blueprint
+## Lavan Apoc Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Reinforced Carrypod | 2.00% | 2.00% | Common | 33.33% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
 ## Lavan Laith Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Taro Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Zetki Photor Mk Ii
+## Lavan Cryophon Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
-## Zetki Photor Mk I
+## Vidar Apoc Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
-## Zetki Cryophon Mk I
+## Lavan Carcinnox Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
 ## Zetki Reactor Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Axio Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Gyre Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Axio Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Gyre Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
-## Zetki Pulsar Mk I
+## Lavan Photor Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
-## Scimitar Fuselage Blueprint
+## Zetki Apoc Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vem Tabook | 25.00% | 25.00% | Common | 50.00% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
 
-## Zetki Apoc Mk I
+## Lavan Photor Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
 ## Quellor Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45138,32 +45460,51 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 |---|---|---|---|---|
 | Techrot Scaart | 3.00% | 3.00% | Uncommon | 22.11% |
 
-## Zetki Talyn Mk Ii
+## Lavan Carcinnox Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Axio Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
 ## Vidar Engines Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Vidar Photor Mk Ii
+## Lavan Pulsar Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
-## Vidar Cryophon Mk Ii
+## Vidar Carcinnox Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
 ## Zetki Glazio Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Orm Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Orm Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Vorac Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Orm Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Vorac Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Wolf Sledge Handle
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45171,83 +45512,123 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 | Wolf Of Saturn Six | 100.00% | 100.00% | Uncommon | 25.00% |
 | Wolf Of Saturn Six | 100.00% | 100.00% | Uncommon | 25.00% |
 
-## Vidar Apoc Mk Ii
+## Vidar Photor Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
-## Lavan Photor Mk Ii
+## Zetki Glazio Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
 
-## Lavan Carcinnox Mk Ii
+## Vidar Carcinnox Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
 ## Vidar Talyn Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Vorac Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-| Orm Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Vorac Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Orm Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Vidar Talyn Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Taro Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Lavan Vort Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Taro Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Lavan Cryophon Mk I
+## Lavan Pulsar Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
 
 ## Zetki Engines Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Orm Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Vorac Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Orm Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Vorac Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
 
 ## Lavan Carcinnox Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
-## Zetki Cryophon Mk Iii
+## Vidar Laith Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Axio Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Zetki Plating Mk I
+## Zetki Photor Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Taro Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
 
-## War Blueprint
+## Zetki Carcinnox Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Shadow Stalker | 50.00% | 50.00% | Uncommon | 11.73% |
-| Protector Stalker | 50.00% | 50.00% | Uncommon | 11.73% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
 
-## Lavan Apoc Mk Iii
+## Vidar Photor Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
-## Lavan Photor Mk Iii
+## Zetki Pulsar Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
 
 ## Tak & Lug Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45258,27 +45639,44 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Lavan Cryophon Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
-## Lavan Carcinnox Mk Iii
+## Zetki Photor Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
 
-## Lavan Pulsar Mk Iii
+## Zetki Cryophon Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Elite Exo Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 8.89% |
 
-## Vidar Photor Mk Iii
+## Vidar Pulsar Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Kosma Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Gyre Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
+| Exo Skold Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Exo Skold Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 8.00% |
 
 ## Scimitar Engines Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45291,46 +45689,46 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Vidar Glazio Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Taro Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Taro Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Vidar Carcinnox Mk Iii
+## Vidar Vort Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
 
-## Zetki Apoc Mk Iii
+## Zetki Plating Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Taro Weaver (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
-## Zetki Photor Mk Iii
+## Scimitar Fuselage Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Elite Exo Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Vem Tabook | 25.00% | 25.00% | Common | 50.00% |
 
 ## Zetki Vort Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Taro Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Taro Weaver (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Lavan Apoc Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Lavan Laith Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Octavia Chassis Blueprint
+## Zetki Vort Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Orokin Storage Container | 100.00% | 100.00% | Common | 100.00% |
+| Elite Axio Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Pherliac Pods Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45343,12 +45741,10 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 | Deimos Juggernaut | 90.00% | 90.00% | Common | 100.00% |
 | Deimos Juggernaut | 5.00% | 5.00% | Common | 100.00% |
 
-## Vidar Pulsar Mk Iii
+## Octavia Chassis Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-| Exo Skold Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Orokin Storage Container | 100.00% | 100.00% | Common | 100.00% |
 
 ## Tak & Lug Handle
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45359,29 +45755,34 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Lavan Pulsar Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Kosma Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Zetki Laith Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Orm Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Orm Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Vorac Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Orm Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Vorac Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Lavan Pulsar Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Gyre Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
+| Gyre Gokstad Crewship (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 10.00% |
 
-## Shedu Chassis
+## Zetki Talyn Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Symbilyst | 4.00% | 4.00% | Uncommon | 25.00% |
+| Elite Axio Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Lavan Plating Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Hildryn Chassis Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
@@ -45391,79 +45792,96 @@ Every blueprint in the game and which enemies drop it, with exact drop percentag
 ## Lavan Glazio Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Zetki Talyn Mk I
+## Vidar Reactor Mk Ii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Taro Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Lavan Plating Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 12.50% |
 | Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
 
-## Zetki Vort Mk Ii
+## Zetki Cryophon Mk Iv
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Axio Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Exo Gokstad Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.00% |
+| Elite Exo Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Kosma Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
+| Elite Gyre Outrider (Level 51 - 100) | 100.00% | 100.00% | Rare | 4.00% |
 
-## Vidar Reactor Mk Ii
+## Vidar Plating Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Axio Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
 
 ## Pathocyst Subcortex
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Zealoid Prelate | 100.00% | 100.00% | Common | 33.33% |
 
-## Wolf Sledge Motor
-| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
-|---|---|---|---|---|
-| Wolf Of Saturn Six | 100.00% | 100.00% | Uncommon | 25.00% |
-| Wolf Of Saturn Six | 100.00% | 100.00% | Uncommon | 25.00% |
-
-## Vidar Talyn Mk Ii
-| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
-|---|---|---|---|---|
-| Axio Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-
-## Vidar Carcinnox Mk I
-| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
-|---|---|---|---|---|
-| Kosma Gokstad Crewship | 20.00% | 20.00% | Uncommon | 10.00% |
-
-## Vidar Plating Mk Iii
-| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
-|---|---|---|---|---|
-| Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
-| Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
-
-## Zetki Carcinnox Mk I
-| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
-|---|---|---|---|---|
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
-
 ## Lavan Engines Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
 | Orm Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+| Axio Gox (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 12.50% |
 | Vorac Gox | 20.00% | 20.00% | Uncommon | 12.50% |
+
+## Vidar Talyn Mk Ii
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Axio Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+
+## Lavan Talyn Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Taro Crewship (Level 51 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Axio Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Vorac Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+
+## Zetki Vort Mk Iv
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Rare | 2.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Rare | 5.00% |
+
+## Zetki Carcinnox Mk I
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
+
+## War Blueprint
+| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
+|---|---|---|---|---|
+| Shadow Stalker | 50.00% | 50.00% | Uncommon | 11.73% |
+| Protector Stalker | 50.00% | 50.00% | Uncommon | 11.73% |
 
 ## Zetki Talyn Mk Iii
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Orm Crewship | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Orm Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Vorac Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Orm Crewship (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Orm Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Orm Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Axio Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Taro Weaver (Level 51 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
+| Elite Vorac Weaver (Level 0 - 70) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Vorac Weaver (Level 71 - 100) | 20.00% | 20.00% | Uncommon | 10.00% |
 
 ## Zetki Shield Array Mk I
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |
 |---|---|---|---|---|
-| Elite Taro Weaver | 20.00% | 20.00% | Uncommon | 12.50% |
-| Elite Kosma Outrider | 100.00% | 100.00% | Uncommon | 11.11% |
+| Elite Taro Weaver (Level 0 - 50) | 20.00% | 20.00% | Uncommon | 12.50% |
+| Elite Kosma Outrider (Level 0 - 50) | 100.00% | 100.00% | Uncommon | 11.11% |
 
 ## Boar Blueprint
 | Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |

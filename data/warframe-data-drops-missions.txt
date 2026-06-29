@@ -1149,7 +1149,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -1647,7 +1647,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -2237,7 +2237,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -2320,7 +2320,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -2361,7 +2361,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Neo C9 Relic | Rare | 6.25% |
 | 400 Endo | Common | 36.25% |
@@ -2374,7 +2374,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 5.80% |
 | Neo Y1 Relic | Rare | 5.80% |
 | Neo T11 Relic | Rare | 5.80% |
-| Neo V11 Relic | Rare | 5.80% |
+| Neo V12 Relic | Rare | 5.80% |
 | Neo C8 Relic | Rare | 5.80% |
 | Neo C9 Relic | Rare | 5.80% |
 | Corufell Barrel | Rare | 8.00% |
@@ -2430,7 +2430,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Motus Impact | Uncommon | 11.11% |
 | Aero Vantage | Uncommon | 11.11% |
 | Neo T11 Relic | Rare | 5.56% |
-| Neo V11 Relic | Rare | 5.56% |
+| Neo V12 Relic | Rare | 5.56% |
 | Neo C8 Relic | Rare | 5.56% |
 | Neo C9 Relic | Rare | 5.56% |
 **Rotation C:**
@@ -2575,7 +2575,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 6.25% |
 | Neo A16 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo C9 Relic | Rare | 6.25% |
@@ -2590,7 +2590,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 11.06% |
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
@@ -2636,7 +2636,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -2669,7 +2669,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 7.14% |
 | Neo Y1 Relic | Rare | 7.14% |
 | Neo T11 Relic | Rare | 7.14% |
-| Neo V11 Relic | Rare | 7.14% |
+| Neo V12 Relic | Rare | 7.14% |
 | Neo C8 Relic | Rare | 7.14% |
 | Neo C9 Relic | Rare | 7.14% |
 **Rotation C:**
@@ -2679,7 +2679,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 14.29% |
 | Neo Y1 Relic | Uncommon | 14.29% |
 | Neo T11 Relic | Uncommon | 14.29% |
-| Neo V11 Relic | Uncommon | 14.29% |
+| Neo V12 Relic | Uncommon | 14.29% |
 | Neo C8 Relic | Uncommon | 14.29% |
 | Neo C9 Relic | Uncommon | 14.29% |
 
@@ -2821,7 +2821,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -2895,7 +2895,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -2927,7 +2927,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 6.25% |
 | Neo A16 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo C9 Relic | Rare | 6.25% |
@@ -2942,7 +2942,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 11.06% |
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
@@ -2988,7 +2988,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -3372,7 +3372,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 7.14% |
 | Neo Y1 Relic | Rare | 7.14% |
 | Neo T11 Relic | Rare | 7.14% |
-| Neo V11 Relic | Rare | 7.14% |
+| Neo V12 Relic | Rare | 7.14% |
 | Neo C8 Relic | Rare | 7.14% |
 | Neo C9 Relic | Rare | 7.14% |
 **Rotation C:**
@@ -3382,7 +3382,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 14.29% |
 | Neo Y1 Relic | Uncommon | 14.29% |
 | Neo T11 Relic | Uncommon | 14.29% |
-| Neo V11 Relic | Uncommon | 14.29% |
+| Neo V12 Relic | Uncommon | 14.29% |
 | Neo C8 Relic | Uncommon | 14.29% |
 | Neo C9 Relic | Uncommon | 14.29% |
 
@@ -4122,7 +4122,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -4161,7 +4161,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 
@@ -4646,7 +4646,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 7.14% |
 | Neo Y1 Relic | Rare | 7.14% |
 | Neo T11 Relic | Rare | 7.14% |
-| Neo V11 Relic | Rare | 7.14% |
+| Neo V12 Relic | Rare | 7.14% |
 | Neo C8 Relic | Rare | 7.14% |
 | Neo C9 Relic | Rare | 7.14% |
 **Rotation C:**
@@ -4656,7 +4656,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 14.29% |
 | Neo Y1 Relic | Uncommon | 14.29% |
 | Neo T11 Relic | Uncommon | 14.29% |
-| Neo V11 Relic | Uncommon | 14.29% |
+| Neo V12 Relic | Uncommon | 14.29% |
 | Neo C8 Relic | Uncommon | 14.29% |
 | Neo C9 Relic | Uncommon | 14.29% |
 
@@ -4670,7 +4670,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -4736,7 +4736,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -4850,7 +4850,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -4896,7 +4896,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.22% |
 | Neo Y1 Relic | Rare | 3.22% |
 | Neo T11 Relic | Rare | 3.22% |
-| Neo V11 Relic | Rare | 3.22% |
+| Neo V12 Relic | Rare | 3.22% |
 | Neo C8 Relic | Rare | 3.22% |
 | Neo C9 Relic | Rare | 3.22% |
 **Rotation C:**
@@ -4923,7 +4923,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -5084,7 +5084,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 14.29% |
 | Neo Y1 Relic | Uncommon | 14.29% |
 | Neo T11 Relic | Uncommon | 14.29% |
-| Neo V11 Relic | Uncommon | 14.29% |
+| Neo V12 Relic | Uncommon | 14.29% |
 | Neo C8 Relic | Uncommon | 14.29% |
 | Neo C9 Relic | Uncommon | 14.29% |
 **Rotation C:**
@@ -5095,7 +5095,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo Y1 Relic | Uncommon | 13.56% |
 | Universal Medallion | Rare | 5.08% |
 | Neo T11 Relic | Uncommon | 13.56% |
-| Neo V11 Relic | Uncommon | 13.56% |
+| Neo V12 Relic | Uncommon | 13.56% |
 | Neo C8 Relic | Uncommon | 13.56% |
 | Neo C9 Relic | Uncommon | 13.56% |
 
@@ -5109,7 +5109,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -5235,7 +5235,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -5373,7 +5373,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -5453,7 +5453,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -6022,7 +6022,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.22% |
 | Neo Y1 Relic | Rare | 3.22% |
 | Neo T11 Relic | Rare | 3.22% |
-| Neo V11 Relic | Rare | 3.22% |
+| Neo V12 Relic | Rare | 3.22% |
 | Neo C8 Relic | Rare | 3.22% |
 | Neo C9 Relic | Rare | 3.22% |
 **Rotation C:**
@@ -6059,7 +6059,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 **Rotation C:**
@@ -6098,7 +6098,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -6244,7 +6244,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -6408,7 +6408,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 **Rotation B:**
@@ -6455,7 +6455,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -6552,7 +6552,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -6583,7 +6583,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.22% |
 | Neo Y1 Relic | Rare | 3.22% |
 | Neo T11 Relic | Rare | 3.22% |
-| Neo V11 Relic | Rare | 3.22% |
+| Neo V12 Relic | Rare | 3.22% |
 | Neo C8 Relic | Rare | 3.22% |
 | Neo C9 Relic | Rare | 3.22% |
 **Rotation C:**
@@ -6623,7 +6623,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -6683,7 +6683,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Vidar Shield Array Mk Iii | Uncommon | 13.64% |
 | Vidar Plating Mk Iii | Uncommon | 13.64% |
 | Neo T11 Relic | Rare | 4.55% |
-| Neo V11 Relic | Rare | 4.55% |
+| Neo V12 Relic | Rare | 4.55% |
 | Neo C8 Relic | Rare | 4.55% |
 | Neo C9 Relic | Rare | 4.55% |
 **Rotation C:**
@@ -6763,7 +6763,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 2.41% |
 | Neo Y1 Relic | Rare | 2.41% |
 | Neo T11 Relic | Rare | 2.41% |
-| Neo V11 Relic | Rare | 2.41% |
+| Neo V12 Relic | Rare | 2.41% |
 | Neo C8 Relic | Rare | 2.41% |
 | Neo C9 Relic | Rare | 2.41% |
 | 2X Riven Sliver | Rare | 1.20% |
@@ -6829,7 +6829,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Vidar Engines Mk Iii | Uncommon | 18.18% |
 | Lavan Plating Mk Iii | Uncommon | 18.18% |
 | Neo T11 Relic | Rare | 6.06% |
-| Neo V11 Relic | Rare | 6.06% |
+| Neo V12 Relic | Rare | 6.06% |
 | Riven Sliver | Rare | 3.03% |
 **Rotation C:**
 | Item | Rarity | Chance |
@@ -6903,7 +6903,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Vidar Engines Mk Iii | Uncommon | 18.18% |
 | Lavan Plating Mk Iii | Uncommon | 18.18% |
 | Neo T11 Relic | Rare | 6.06% |
-| Neo V11 Relic | Rare | 6.06% |
+| Neo V12 Relic | Rare | 6.06% |
 | Riven Sliver | Rare | 3.03% |
 **Rotation C:**
 | Item | Rarity | Chance |
@@ -6977,7 +6977,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 2.41% |
 | Neo Y1 Relic | Rare | 2.41% |
 | Neo T11 Relic | Rare | 2.41% |
-| Neo V11 Relic | Rare | 2.41% |
+| Neo V12 Relic | Rare | 2.41% |
 | Neo C8 Relic | Rare | 2.41% |
 | Neo C9 Relic | Rare | 2.41% |
 | 2X Riven Sliver | Rare | 1.20% |
@@ -7044,7 +7044,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 **Rotation C:**
@@ -7546,7 +7546,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -7667,7 +7667,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -7699,7 +7699,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.22% |
 | Neo Y1 Relic | Rare | 3.22% |
 | Neo T11 Relic | Rare | 3.22% |
-| Neo V11 Relic | Rare | 3.22% |
+| Neo V12 Relic | Rare | 3.22% |
 | Neo C8 Relic | Rare | 3.22% |
 | Neo C9 Relic | Rare | 3.22% |
 **Rotation C:**
@@ -7831,7 +7831,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -7897,7 +7897,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -7962,7 +7962,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.22% |
 | Neo Y1 Relic | Rare | 3.22% |
 | Neo T11 Relic | Rare | 3.22% |
-| Neo V11 Relic | Rare | 3.22% |
+| Neo V12 Relic | Rare | 3.22% |
 | Neo C8 Relic | Rare | 3.22% |
 | Neo C9 Relic | Rare | 3.22% |
 **Rotation C:**
@@ -7990,7 +7990,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 **Rotation B:**
@@ -8024,7 +8024,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -8078,7 +8078,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 **Rotation B:**
@@ -8115,7 +8115,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 7.69% |
 | Neo A16 Relic | Rare | 7.69% |
 | Neo T11 Relic | Rare | 7.69% |
-| Neo V11 Relic | Rare | 7.69% |
+| Neo V12 Relic | Rare | 7.69% |
 | Neo C8 Relic | Rare | 7.69% |
 | Neo Y1 Relic | Rare | 7.69% |
 | Neo C9 Relic | Rare | 7.69% |
@@ -8219,7 +8219,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -8316,7 +8316,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -8346,7 +8346,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 **Rotation B:**
@@ -8421,7 +8421,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 14.29% |
 | Neo Y1 Relic | Uncommon | 14.29% |
 | Neo T11 Relic | Uncommon | 14.29% |
-| Neo V11 Relic | Uncommon | 14.29% |
+| Neo V12 Relic | Uncommon | 14.29% |
 | Neo C8 Relic | Uncommon | 14.29% |
 | Neo C9 Relic | Uncommon | 14.29% |
 **Rotation C:**
@@ -8491,7 +8491,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 14.29% |
 | Neo Y1 Relic | Uncommon | 14.29% |
 | Neo T11 Relic | Uncommon | 14.29% |
-| Neo V11 Relic | Uncommon | 14.29% |
+| Neo V12 Relic | Uncommon | 14.29% |
 | Neo C8 Relic | Uncommon | 14.29% |
 | Neo C9 Relic | Uncommon | 14.29% |
 **Rotation C:**
@@ -8571,7 +8571,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 6.25% |
 | Neo A16 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo C9 Relic | Rare | 6.25% |
@@ -8586,7 +8586,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 11.06% |
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
@@ -8647,7 +8647,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 **Rotation B:**
@@ -8697,7 +8697,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.22% |
 | Neo Y1 Relic | Rare | 3.22% |
 | Neo T11 Relic | Rare | 3.22% |
-| Neo V11 Relic | Rare | 3.22% |
+| Neo V12 Relic | Rare | 3.22% |
 | Neo C8 Relic | Rare | 3.22% |
 | Neo C9 Relic | Rare | 3.22% |
 **Rotation C:**
@@ -8737,7 +8737,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -8818,7 +8818,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.22% |
 | Neo Y1 Relic | Rare | 3.22% |
 | Neo T11 Relic | Rare | 3.22% |
-| Neo V11 Relic | Rare | 3.22% |
+| Neo V12 Relic | Rare | 3.22% |
 | Neo C8 Relic | Rare | 3.22% |
 | Neo C9 Relic | Rare | 3.22% |
 **Rotation C:**
@@ -8878,7 +8878,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -8944,7 +8944,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -8987,7 +8987,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -9030,7 +9030,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -9137,7 +9137,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -9229,7 +9229,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -9281,7 +9281,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -9314,7 +9314,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 7.14% |
 | Neo Y1 Relic | Rare | 7.14% |
 | Neo T11 Relic | Rare | 7.14% |
-| Neo V11 Relic | Rare | 7.14% |
+| Neo V12 Relic | Rare | 7.14% |
 | Neo C8 Relic | Rare | 7.14% |
 | Neo C9 Relic | Rare | 7.14% |
 **Rotation C:**
@@ -9324,7 +9324,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 14.29% |
 | Neo Y1 Relic | Uncommon | 14.29% |
 | Neo T11 Relic | Uncommon | 14.29% |
-| Neo V11 Relic | Uncommon | 14.29% |
+| Neo V12 Relic | Uncommon | 14.29% |
 | Neo C8 Relic | Uncommon | 14.29% |
 | Neo C9 Relic | Uncommon | 14.29% |
 
@@ -9420,7 +9420,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 6.25% |
 | Neo A16 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo C9 Relic | Rare | 6.25% |
@@ -9435,7 +9435,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 11.06% |
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
@@ -9495,7 +9495,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -9576,7 +9576,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Rare | 1.84% |
 | Neo A16 Relic | Rare | 1.84% |
 | Neo T11 Relic | Rare | 1.84% |
-| Neo V11 Relic | Rare | 1.84% |
+| Neo V12 Relic | Rare | 1.84% |
 | Neo C8 Relic | Rare | 1.84% |
 | Neo Y1 Relic | Rare | 1.84% |
 | Neo C9 Relic | Rare | 1.84% |
@@ -9672,7 +9672,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -9906,7 +9906,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 2.05% |
 | Neo Y1 Relic | Rare | 2.05% |
 | Neo T11 Relic | Rare | 2.05% |
-| Neo V11 Relic | Rare | 2.05% |
+| Neo V12 Relic | Rare | 2.05% |
 | Neo C8 Relic | Rare | 2.05% |
 | Neo C9 Relic | Rare | 2.05% |
 | Aya | Rare | 2.05% |
@@ -9927,7 +9927,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.09% |
 | Neo Y1 Relic | Rare | 6.09% |
 | Neo T11 Relic | Rare | 6.09% |
-| Neo V11 Relic | Rare | 6.09% |
+| Neo V12 Relic | Rare | 6.09% |
 | Neo C8 Relic | Rare | 6.09% |
 | Neo C9 Relic | Rare | 6.09% |
 | Aya | Rare | 6.09% |
@@ -9948,7 +9948,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Neo C9 Relic | Rare | 6.25% |
 | Aya | Rare | 6.25% |
@@ -9968,7 +9968,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Neo C9 Relic | Rare | 6.25% |
 | Aya | Rare | 6.25% |
@@ -9990,7 +9990,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.49% |
 | Neo Y1 Relic | Rare | 6.49% |
 | Neo T11 Relic | Rare | 6.49% |
-| Neo V11 Relic | Rare | 6.49% |
+| Neo V12 Relic | Rare | 6.49% |
 | Neo C8 Relic | Rare | 6.49% |
 | Neo C9 Relic | Rare | 6.49% |
 | Aya | Rare | 1.29% |
@@ -10002,7 +10002,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 9.09% |
 | Neo Y1 Relic | Rare | 9.09% |
 | Neo T11 Relic | Rare | 9.09% |
-| Neo V11 Relic | Rare | 9.09% |
+| Neo V12 Relic | Rare | 9.09% |
 | Neo C8 Relic | Rare | 9.09% |
 | Neo C8 Relic | Rare | 9.09% |
 | Neo C9 Relic | Rare | 9.09% |
@@ -10015,7 +10015,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 9.68% |
 | Neo Y1 Relic | Rare | 9.68% |
 | Neo T11 Relic | Rare | 9.68% |
-| Neo V11 Relic | Rare | 9.68% |
+| Neo V12 Relic | Rare | 9.68% |
 | Neo C8 Relic | Rare | 9.68% |
 | Neo C9 Relic | Rare | 9.68% |
 | Aya | Rare | 9.68% |
@@ -10038,8 +10038,8 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo Y1 Relic | Rare | 9.09% |
 | Neo T11 Relic | Rare | 9.09% |
 | Neo T11 Relic | Rare | 9.09% |
-| Neo V11 Relic | Rare | 9.09% |
-| Neo V11 Relic | Rare | 9.09% |
+| Neo V12 Relic | Rare | 9.09% |
+| Neo V12 Relic | Rare | 9.09% |
 | Neo C8 Relic | Rare | 9.09% |
 | Neo C9 Relic | Rare | 9.09% |
 | Aya | Rare | 9.09% |
@@ -10050,7 +10050,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 12.50% |
 | Neo Y1 Relic | Uncommon | 12.50% |
 | Neo T11 Relic | Uncommon | 12.50% |
-| Neo V11 Relic | Uncommon | 12.50% |
+| Neo V12 Relic | Uncommon | 12.50% |
 | Neo C8 Relic | Uncommon | 12.50% |
 | Neo C9 Relic | Uncommon | 12.50% |
 | Aya | Uncommon | 12.50% |
@@ -10080,8 +10080,8 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Axi S20 Relic | Rare | 6.25% |
 | Axi D6 Relic | Rare | 6.25% |
@@ -10100,8 +10100,8 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.25% |
 | Neo Y1 Relic | Rare | 6.25% |
 | Neo T11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
-| Neo V11 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
+| Neo V12 Relic | Rare | 6.25% |
 | Neo C8 Relic | Rare | 6.25% |
 | Axi S20 Relic | Rare | 6.25% |
 | Axi D6 Relic | Rare | 6.25% |
@@ -10153,8 +10153,8 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo Y1 Relic | Rare | 9.09% |
 | Neo T11 Relic | Rare | 9.09% |
 | Neo T11 Relic | Rare | 9.09% |
-| Neo V11 Relic | Rare | 9.09% |
-| Neo V11 Relic | Rare | 9.09% |
+| Neo V12 Relic | Rare | 9.09% |
+| Neo V12 Relic | Rare | 9.09% |
 | Neo C8 Relic | Rare | 9.09% |
 | Neo C9 Relic | Rare | 9.09% |
 | Aya | Rare | 9.09% |
@@ -10165,7 +10165,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 12.50% |
 | Neo Y1 Relic | Uncommon | 12.50% |
 | Neo T11 Relic | Uncommon | 12.50% |
-| Neo V11 Relic | Uncommon | 12.50% |
+| Neo V12 Relic | Uncommon | 12.50% |
 | Neo C8 Relic | Uncommon | 12.50% |
 | Neo C9 Relic | Uncommon | 12.50% |
 | Aya | Uncommon | 12.50% |
@@ -10695,7 +10695,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -10736,7 +10736,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 11.06% |
 | Neo Y1 Relic | Uncommon | 11.06% |
 | Neo T11 Relic | Uncommon | 11.06% |
-| Neo V11 Relic | Uncommon | 11.06% |
+| Neo V12 Relic | Uncommon | 11.06% |
 | Neo C8 Relic | Uncommon | 11.06% |
 | Neo C9 Relic | Uncommon | 11.06% |
 
@@ -10833,7 +10833,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 12.50% |
 | Neo Y1 Relic | Uncommon | 12.50% |
 | Neo T11 Relic | Uncommon | 12.50% |
-| Neo V11 Relic | Uncommon | 12.50% |
+| Neo V12 Relic | Uncommon | 12.50% |
 | Neo C8 Relic | Uncommon | 12.50% |
 | Neo C9 Relic | Uncommon | 12.50% |
 **Rotation C:**
@@ -10912,7 +10912,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 7.50% |
 | Neo Y1 Relic | Rare | 7.50% |
 | Neo T11 Relic | Rare | 7.50% |
-| Neo V11 Relic | Rare | 7.50% |
+| Neo V12 Relic | Rare | 7.50% |
 | Neo C8 Relic | Rare | 7.50% |
 | Neo C9 Relic | Rare | 7.50% |
 | Entrati Lanthorn | Rare | 5.00% |
@@ -10949,7 +10949,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 7.50% |
 | Neo Y1 Relic | Rare | 7.50% |
 | Neo T11 Relic | Rare | 7.50% |
-| Neo V11 Relic | Rare | 7.50% |
+| Neo V12 Relic | Rare | 7.50% |
 | Neo C8 Relic | Rare | 7.50% |
 | Neo C9 Relic | Rare | 7.50% |
 | Entrati Lanthorn | Rare | 5.00% |
@@ -10990,7 +10990,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 7.50% |
 | Neo Y1 Relic | Rare | 7.50% |
 | Neo T11 Relic | Rare | 7.50% |
-| Neo V11 Relic | Rare | 7.50% |
+| Neo V12 Relic | Rare | 7.50% |
 | Neo C8 Relic | Rare | 7.50% |
 | Neo C9 Relic | Rare | 7.50% |
 | Entrati Lanthorn | Rare | 5.00% |
@@ -11031,7 +11031,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 | Onos Blueprint | Rare | 5.00% |
@@ -11153,7 +11153,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -11183,7 +11183,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -11267,7 +11267,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 14.29% |
 | Neo Y1 Relic | Uncommon | 14.29% |
 | Neo T11 Relic | Uncommon | 14.29% |
-| Neo V11 Relic | Uncommon | 14.29% |
+| Neo V12 Relic | Uncommon | 14.29% |
 | Neo C8 Relic | Uncommon | 14.29% |
 | Neo C9 Relic | Uncommon | 14.29% |
 **Rotation B:**
@@ -11309,7 +11309,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
 | Sarofang Blade | Rare | 6.00% |
@@ -11361,7 +11361,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.76% |
 | Neo Y1 Relic | Rare | 4.76% |
 | Neo T11 Relic | Rare | 4.76% |
-| Neo V11 Relic | Rare | 4.76% |
+| Neo V12 Relic | Rare | 4.76% |
 | Neo C8 Relic | Rare | 4.76% |
 | Neo C9 Relic | Rare | 4.76% |
 | Sarofang Blade | Uncommon | 10.16% |
@@ -11413,7 +11413,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo C7 Relic | Uncommon | 10.00% |
 | Neo A16 Relic | Uncommon | 10.00% |
 | Neo T11 Relic | Uncommon | 10.00% |
-| Neo V11 Relic | Uncommon | 10.00% |
+| Neo V12 Relic | Uncommon | 10.00% |
 | Neo C8 Relic | Uncommon | 10.00% |
 | Neo Y1 Relic | Uncommon | 10.00% |
 | Neo C9 Relic | Uncommon | 10.00% |
@@ -11479,7 +11479,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 6.67% |
 | Neo Y1 Relic | Rare | 6.67% |
 | Neo T11 Relic | Rare | 6.67% |
-| Neo V11 Relic | Rare | 6.67% |
+| Neo V12 Relic | Rare | 6.67% |
 | Neo C8 Relic | Rare | 6.67% |
 | Neo C9 Relic | Rare | 6.67% |
 **Rotation C:**
@@ -11590,7 +11590,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.22% |
 | Neo Y1 Relic | Rare | 3.22% |
 | Neo T11 Relic | Rare | 3.22% |
-| Neo V11 Relic | Rare | 3.22% |
+| Neo V12 Relic | Rare | 3.22% |
 | Neo C8 Relic | Rare | 3.22% |
 | Neo C9 Relic | Rare | 3.22% |
 
@@ -11655,7 +11655,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 9.09% |
 | Neo Y1 Relic | Rare | 9.09% |
 | Neo T11 Relic | Rare | 9.09% |
-| Neo V11 Relic | Rare | 9.09% |
+| Neo V12 Relic | Rare | 9.09% |
 | Neo C8 Relic | Rare | 9.09% |
 | Neo C9 Relic | Rare | 9.09% |
 
@@ -11715,7 +11715,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Braton Vandal Stock | Rare | 3.16% |
 | Braton Vandal Blueprint | Rare | 3.16% |
 | Peculiar Bloom | Rare | 2.01% |
-| Neo V11 Relic (Radiant) | Rare | 6.32% |
+| Neo V12 Relic (Radiant) | Rare | 6.32% |
 | Neo C7 Relic (Radiant) | Rare | 6.32% |
 | Neo C8 Relic (Radiant) | Rare | 6.32% |
 | Neo C9 Relic (Radiant) | Rare | 6.32% |
@@ -11748,7 +11748,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 2.00% |
 | Neo Y1 Relic | Rare | 2.00% |
 | Neo T11 Relic | Rare | 2.00% |
-| Neo V11 Relic | Rare | 2.00% |
+| Neo V12 Relic | Rare | 2.00% |
 | Neo C8 Relic | Rare | 2.00% |
 | Neo C9 Relic | Rare | 2.00% |
 
@@ -11775,7 +11775,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.80% |
 | Neo Y1 Relic | Rare | 4.80% |
 | Neo T11 Relic | Rare | 4.80% |
-| Neo V11 Relic | Rare | 4.80% |
+| Neo V12 Relic | Rare | 4.80% |
 | Neo C8 Relic | Rare | 4.80% |
 | Neo C9 Relic | Rare | 4.80% |
 | Neo V9 Relic | Rare | 4.80% |
@@ -11817,7 +11817,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 2.00% |
 | Neo Y1 Relic | Rare | 2.00% |
 | Neo T11 Relic | Rare | 2.00% |
-| Neo V11 Relic | Rare | 2.00% |
+| Neo V12 Relic | Rare | 2.00% |
 | Neo C8 Relic | Rare | 2.00% |
 | Neo C9 Relic | Rare | 2.00% |
 
@@ -11844,7 +11844,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.80% |
 | Neo Y1 Relic | Rare | 4.80% |
 | Neo T11 Relic | Rare | 4.80% |
-| Neo V11 Relic | Rare | 4.80% |
+| Neo V12 Relic | Rare | 4.80% |
 | Neo C8 Relic | Rare | 4.80% |
 | Neo C9 Relic | Rare | 4.80% |
 | Neo V9 Relic | Rare | 4.80% |
@@ -11886,7 +11886,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 2.00% |
 | Neo Y1 Relic | Rare | 2.00% |
 | Neo T11 Relic | Rare | 2.00% |
-| Neo V11 Relic | Rare | 2.00% |
+| Neo V12 Relic | Rare | 2.00% |
 | Neo C8 Relic | Rare | 2.00% |
 | Neo C9 Relic | Rare | 2.00% |
 
@@ -11913,7 +11913,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.80% |
 | Neo Y1 Relic | Rare | 4.80% |
 | Neo T11 Relic | Rare | 4.80% |
-| Neo V11 Relic | Rare | 4.80% |
+| Neo V12 Relic | Rare | 4.80% |
 | Neo C8 Relic | Rare | 4.80% |
 | Neo C9 Relic | Rare | 4.80% |
 | Neo V9 Relic | Rare | 4.80% |
@@ -11955,7 +11955,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 2.00% |
 | Neo Y1 Relic | Rare | 2.00% |
 | Neo T11 Relic | Rare | 2.00% |
-| Neo V11 Relic | Rare | 2.00% |
+| Neo V12 Relic | Rare | 2.00% |
 | Neo C8 Relic | Rare | 2.00% |
 | Neo C9 Relic | Rare | 2.00% |
 
@@ -11982,7 +11982,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.80% |
 | Neo Y1 Relic | Rare | 4.80% |
 | Neo T11 Relic | Rare | 4.80% |
-| Neo V11 Relic | Rare | 4.80% |
+| Neo V12 Relic | Rare | 4.80% |
 | Neo C8 Relic | Rare | 4.80% |
 | Neo C9 Relic | Rare | 4.80% |
 | Neo V9 Relic | Rare | 4.80% |
@@ -12049,7 +12049,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.35% |
 | Neo Y1 Relic | Rare | 4.35% |
 | Neo T11 Relic | Rare | 4.35% |
-| Neo V11 Relic | Rare | 4.35% |
+| Neo V12 Relic | Rare | 4.35% |
 | Neo C8 Relic | Rare | 4.35% |
 | Neo C9 Relic | Rare | 4.35% |
 **Rotation B:**
@@ -12112,7 +12112,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.35% |
 | Neo Y1 Relic | Rare | 4.35% |
 | Neo T11 Relic | Rare | 4.35% |
-| Neo V11 Relic | Rare | 4.35% |
+| Neo V12 Relic | Rare | 4.35% |
 | Neo C8 Relic | Rare | 4.35% |
 | Neo C9 Relic | Rare | 4.35% |
 **Rotation B:**
@@ -12184,7 +12184,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.35% |
 | Neo Y1 Relic | Rare | 4.35% |
 | Neo T11 Relic | Rare | 4.35% |
-| Neo V11 Relic | Rare | 4.35% |
+| Neo V12 Relic | Rare | 4.35% |
 | Neo C8 Relic | Rare | 4.35% |
 | Neo C9 Relic | Rare | 4.35% |
 **Rotation B:**
@@ -12277,7 +12277,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.35% |
 | Neo Y1 Relic | Rare | 4.35% |
 | Neo T11 Relic | Rare | 4.35% |
-| Neo V11 Relic | Rare | 4.35% |
+| Neo V12 Relic | Rare | 4.35% |
 | Neo C8 Relic | Rare | 4.35% |
 | Neo C9 Relic | Rare | 4.35% |
 **Rotation B:**
@@ -12350,7 +12350,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.35% |
 | Neo Y1 Relic | Rare | 4.35% |
 | Neo T11 Relic | Rare | 4.35% |
-| Neo V11 Relic | Rare | 4.35% |
+| Neo V12 Relic | Rare | 4.35% |
 | Neo C8 Relic | Rare | 4.35% |
 | Neo C9 Relic | Rare | 4.35% |
 **Rotation B:**
@@ -12427,7 +12427,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 4.35% |
 | Neo Y1 Relic | Rare | 4.35% |
 | Neo T11 Relic | Rare | 4.35% |
-| Neo V11 Relic | Rare | 4.35% |
+| Neo V12 Relic | Rare | 4.35% |
 | Neo C8 Relic | Rare | 4.35% |
 | Neo C9 Relic | Rare | 4.35% |
 **Rotation B:**
@@ -12471,7 +12471,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.33% |
 | Neo Y1 Relic | Rare | 3.33% |
 | Neo T11 Relic | Rare | 3.33% |
-| Neo V11 Relic | Rare | 3.33% |
+| Neo V12 Relic | Rare | 3.33% |
 | Neo C8 Relic | Rare | 3.33% |
 | Neo C9 Relic | Rare | 3.33% |
 **Rotation C:**
@@ -12527,7 +12527,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.33% |
 | Neo Y1 Relic | Rare | 3.33% |
 | Neo T11 Relic | Rare | 3.33% |
-| Neo V11 Relic | Rare | 3.33% |
+| Neo V12 Relic | Rare | 3.33% |
 | Neo C8 Relic | Rare | 3.33% |
 | Neo C9 Relic | Rare | 3.33% |
 **Rotation C:**
@@ -12566,7 +12566,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 3.33% |
 | Neo Y1 Relic | Rare | 3.33% |
 | Neo T11 Relic | Rare | 3.33% |
-| Neo V11 Relic | Rare | 3.33% |
+| Neo V12 Relic | Rare | 3.33% |
 | Neo C8 Relic | Rare | 3.33% |
 | Neo C9 Relic | Rare | 3.33% |
 **Rotation C:**
@@ -13386,7 +13386,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 9.56% |
 | Neo Y1 Relic | Rare | 9.56% |
 | Neo T11 Relic | Rare | 9.56% |
-| Neo V11 Relic | Rare | 9.56% |
+| Neo V12 Relic | Rare | 9.56% |
 | Neo C8 Relic | Rare | 9.56% |
 | Neo C9 Relic | Rare | 9.56% |
 | Vesper 77 Barrel Blueprint | Legendary | 0.74% |
@@ -13401,7 +13401,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | 1200 Endo | Common | 42.28% |
 | Meso V13 Relic | Uncommon | 15.86% |
 | Meso K8 Relic | Uncommon | 15.86% |
-| Neo V11 Relic | Uncommon | 15.86% |
+| Neo V12 Relic | Uncommon | 15.86% |
 | Vesper 77 Barrel Blueprint | Rare | 1.69% |
 | Vesper 77 Receiver Blueprint | Rare | 1.69% |
 | Vesper 77 Handle Blueprint | Rare | 1.69% |
@@ -13433,7 +13433,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 9.35% |
 | Neo Y1 Relic | Rare | 9.35% |
 | Neo T11 Relic | Rare | 9.35% |
-| Neo V11 Relic | Rare | 9.35% |
+| Neo V12 Relic | Rare | 9.35% |
 | Neo C8 Relic | Rare | 9.35% |
 | Neo C9 Relic | Rare | 9.35% |
 | Vesper 77 Barrel Blueprint | Rare | 2.18% |
@@ -13445,7 +13445,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | 1600 Endo | Uncommon | 31.80% |
 | Meso V13 Relic | Uncommon | 11.92% |
 | Meso K8 Relic | Uncommon | 11.92% |
-| Neo V11 Relic | Uncommon | 11.92% |
+| Neo V12 Relic | Uncommon | 11.92% |
 | Reconifex Barrel Blueprint | Rare | 5.41% |
 | Reconifex Receiver Blueprint | Rare | 5.41% |
 | Reconifex Stock Blueprint | Rare | 5.41% |
@@ -13477,7 +13477,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 9.35% |
 | Neo Y1 Relic | Rare | 9.35% |
 | Neo T11 Relic | Rare | 9.35% |
-| Neo V11 Relic | Rare | 9.35% |
+| Neo V12 Relic | Rare | 9.35% |
 | Neo C8 Relic | Rare | 9.35% |
 | Neo C9 Relic | Rare | 9.35% |
 | Reconifex Barrel Blueprint | Rare | 2.18% |
@@ -13489,7 +13489,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | 1600 Endo | Uncommon | 31.80% |
 | Meso V13 Relic | Uncommon | 11.92% |
 | Meso K8 Relic | Uncommon | 11.92% |
-| Neo V11 Relic | Uncommon | 11.92% |
+| Neo V12 Relic | Uncommon | 11.92% |
 | Reconifex Barrel Blueprint | Rare | 5.41% |
 | Reconifex Receiver Blueprint | Rare | 5.41% |
 | Reconifex Stock Blueprint | Rare | 5.41% |
@@ -13596,7 +13596,7 @@ All mission reward tables organized by planet and node. Shows game mode, rotatio
 | Neo A16 Relic | Rare | 9.90% |
 | Neo Y1 Relic | Rare | 9.90% |
 | Neo T11 Relic | Rare | 9.90% |
-| Neo V11 Relic | Rare | 9.90% |
+| Neo V12 Relic | Rare | 9.90% |
 | Neo C8 Relic | Rare | 9.90% |
 | Neo C9 Relic | Rare | 9.90% |
 | Riot-848 Barrel Blueprint | Rare | 1.98% |
@@ -14183,7 +14183,7 @@ Special mission reward tables including Derelict Vault mods, Arbitrations, and o
 | Neo A16 Relic (Radiant) | Rare | 2.50% | — |
 | Neo Y1 Relic (Radiant) | Rare | 2.50% | — |
 | Neo T11 Relic (Radiant) | Rare | 2.50% | — |
-| Neo V11 Relic (Radiant) | Rare | 2.50% | — |
+| Neo V12 Relic (Radiant) | Rare | 2.50% | — |
 | Neo C8 Relic (Radiant) | Rare | 2.50% | — |
 | Neo C9 Relic (Radiant) | Rare | 2.50% | — |
 
@@ -14310,7 +14310,7 @@ Special mission reward tables including Derelict Vault mods, Arbitrations, and o
 | Neo Y1 Relic | Rare | 8.33% | A |
 | 2400 Endo | Rare | 8.33% | B |
 | Neo T11 Relic | Rare | 8.33% | B |
-| Neo V11 Relic | Rare | 8.33% | B |
+| Neo V12 Relic | Rare | 8.33% | B |
 | Neo C8 Relic | Rare | 8.33% | B |
 | Neo C9 Relic | Rare | 8.33% | B |
 | Axi S20 Relic | Rare | 8.33% | B |
@@ -14338,7 +14338,7 @@ Special mission reward tables including Derelict Vault mods, Arbitrations, and o
 | Neo Y1 Relic | Rare | 8.33% | A |
 | 2400 Endo | Rare | 8.33% | B |
 | Neo T11 Relic | Rare | 8.33% | B |
-| Neo V11 Relic | Rare | 8.33% | B |
+| Neo V12 Relic | Rare | 8.33% | B |
 | Neo C8 Relic | Rare | 8.33% | B |
 | Neo C9 Relic | Rare | 8.33% | B |
 | Axi S20 Relic | Rare | 8.33% | B |
@@ -14366,7 +14366,7 @@ Special mission reward tables including Derelict Vault mods, Arbitrations, and o
 | Neo Y1 Relic | Rare | 8.33% | A |
 | 2400 Endo | Rare | 8.33% | B |
 | Neo T11 Relic | Rare | 8.33% | B |
-| Neo V11 Relic | Rare | 8.33% | B |
+| Neo V12 Relic | Rare | 8.33% | B |
 | Neo C8 Relic | Rare | 8.33% | B |
 | Neo C9 Relic | Rare | 8.33% | B |
 | Axi S20 Relic | Rare | 8.33% | B |
@@ -14399,7 +14399,7 @@ Special mission reward tables including Derelict Vault mods, Arbitrations, and o
 | Neo Y1 Relic | Rare | 8.33% | A |
 | 2400 Endo | Rare | 8.33% | B |
 | Neo T11 Relic | Rare | 8.33% | B |
-| Neo V11 Relic | Rare | 8.33% | B |
+| Neo V12 Relic | Rare | 8.33% | B |
 | Neo C8 Relic | Rare | 8.33% | B |
 | Neo C9 Relic | Rare | 8.33% | B |
 | Axi S20 Relic | Rare | 8.33% | B |
@@ -14874,7 +14874,7 @@ Reward tables for Derelict and other key-locked missions.
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -15007,7 +15007,7 @@ Reward tables for Derelict and other key-locked missions.
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -15081,7 +15081,7 @@ Reward tables for Derelict and other key-locked missions.
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -15155,7 +15155,7 @@ Reward tables for Derelict and other key-locked missions.
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -15229,7 +15229,7 @@ Reward tables for Derelict and other key-locked missions.
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -15303,7 +15303,7 @@ Reward tables for Derelict and other key-locked missions.
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -15413,7 +15413,7 @@ Reward tables for Derelict and other key-locked missions.
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -15487,7 +15487,7 @@ Reward tables for Derelict and other key-locked missions.
 | Neo A16 Relic | Rare | 2.01% |
 | Neo Y1 Relic | Rare | 2.01% |
 | Neo T11 Relic | Rare | 2.01% |
-| Neo V11 Relic | Rare | 2.01% |
+| Neo V12 Relic | Rare | 2.01% |
 | Neo C8 Relic | Rare | 2.01% |
 | Neo C9 Relic | Rare | 2.01% |
 
@@ -16374,7 +16374,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Meso D8 Relic | Legendary | 0.58% |
 | Meso V13 Relic | Legendary | 0.58% |
 | Neo T11 Relic | Legendary | 0.58% |
-| Neo V11 Relic | Legendary | 0.58% |
+| Neo V12 Relic | Legendary | 0.58% |
 | Neo C8 Relic | Legendary | 0.58% |
 | Axi T13 Relic | Legendary | 0.58% |
 | Axi A21 Relic | Legendary | 0.58% |
@@ -16402,7 +16402,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Meso D8 Relic | Legendary | 0.42% |
 | Meso V13 Relic | Legendary | 0.42% |
 | Neo T11 Relic | Legendary | 0.42% |
-| Neo V11 Relic | Legendary | 0.42% |
+| Neo V12 Relic | Legendary | 0.42% |
 | Neo C8 Relic | Legendary | 0.42% |
 | Axi T13 Relic | Legendary | 0.42% |
 | Axi A21 Relic | Legendary | 0.42% |
@@ -16428,7 +16428,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Meso D8 Relic | Legendary | 0.67% |
 | Meso V13 Relic | Legendary | 0.67% |
 | Neo T11 Relic | Legendary | 0.67% |
-| Neo V11 Relic | Legendary | 0.67% |
+| Neo V12 Relic | Legendary | 0.67% |
 | Neo C8 Relic | Legendary | 0.67% |
 | Axi T13 Relic | Legendary | 0.67% |
 | Axi A21 Relic | Legendary | 0.67% |
@@ -17530,7 +17530,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Receiver | Rare | 3.00% |
 | 3X Scintillant | Rare | 2.00% |
 | 2X Orokin Animus Matrix | Legendary | 0.50% |
-| Neo V11 Relic | Legendary | 0.50% |
+| Neo V12 Relic | Legendary | 0.50% |
 **Rotation C:**
 | Item | Rarity | Chance |
 |---|---|---|
@@ -17568,7 +17568,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Barrel | Rare | 3.00% |
 | Arum Spinosa Rivet | Rare | 2.00% |
 | 3X Orokin Animus Matrix | Legendary | 0.50% |
-| Neo V11 Relic | Legendary | 0.50% |
+| Neo V12 Relic | Legendary | 0.50% |
 **Rotation B:**
 | Item | Rarity | Chance |
 |---|---|---|
@@ -17734,7 +17734,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Receiver | Rare | 3.00% |
 | 3X Scintillant | Rare | 2.00% |
 | 2X Orokin Animus Matrix | Legendary | 0.50% |
-| Neo V11 Relic | Legendary | 0.50% |
+| Neo V12 Relic | Legendary | 0.50% |
 | Residual Viremia | Uncommon | 30.00% |
 | Necramech Efficiency | Uncommon | 15.00% |
 | 2X Orokin Ballistics Matrix | Rare | 7.50% |
@@ -17744,7 +17744,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Receiver | Rare | 6.00% |
 | 3X Scintillant | Rare | 4.00% |
 | 2X Orokin Animus Matrix | Rare | 1.00% |
-| Neo V11 Relic | Rare | 1.00% |
+| Neo V12 Relic | Rare | 1.00% |
 **Rotation C:**
 | Item | Rarity | Chance |
 |---|---|---|
@@ -17820,7 +17820,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Barrel | Rare | 3.00% |
 | Arum Spinosa Rivet | Rare | 2.00% |
 | 3X Orokin Animus Matrix | Legendary | 0.50% |
-| Neo V11 Relic | Legendary | 0.50% |
+| Neo V12 Relic | Legendary | 0.50% |
 | Residual Shock | Uncommon | 30.00% |
 | Necramech Slipstream | Uncommon | 15.00% |
 | Arum Spinosa Guard | Rare | 7.50% |
@@ -17832,7 +17832,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Barrel | Rare | 6.00% |
 | Arum Spinosa Rivet | Rare | 4.00% |
 | 3X Orokin Animus Matrix | Rare | 1.00% |
-| Neo V11 Relic | Rare | 1.00% |
+| Neo V12 Relic | Rare | 1.00% |
 **Rotation B:**
 | Item | Rarity | Chance |
 |---|---|---|
